@@ -14,3 +14,5 @@ real world settings show an average measurement error below 5% and a
 processing time of 0.89 seconds per measurement. This study discusses 
 Dimension Capture’s technology, applications, and potential to revolutionize 
 measurement practices. 
+
+![image](https://github.com/user-attachments/assets/a747a97f-1005-4dc3-9242-3f7c821b04cf)
