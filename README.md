@@ -1,4 +1,4 @@
-# Dimension-Capture-with-ArUco-Marker
+# Dimension Capture
 
 Dimension Capture is a cost-effective smartphone application designed to measure dimensions of cuboid objects with high accuracy. By leveraging computer vision and ArUco markers with open-source tools like OpenCV, the app offers a reliable alternative to expensive LiDAR systems.
 
