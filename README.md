@@ -1,18 +1,11 @@
 # Dimension-Capture-with-ArUco-Marker
 
-Accurate dimension measurement is critical in sectors like logistics, 
-manufacturing, and e-commerce, where object sizing directly impacts eAiciency. 
-Traditionally, industries have depended on costly laser-based LiDAR systems, 
-often unaAordable for smaller businesses. This paper introduces Dimension 
-Capture, a smartphone application that uses computer vision and ArUco markers 
-to provide a cost-eAective, accurate alternative for dimension measurement. 
-Utilizing common smartphone hardware and open-source tools like OpenCV, 
-Dimension Capture enables quick, reliable measurement of cuboid objects. The 
-app captures images to gather depth data, automatically calculating object width 
-and length with advanced image processing to enhance precision. Tests in varied 
-real world settings show an average measurement error below 5% and a 
-processing time of 0.89 seconds per measurement. This study discusses 
-Dimension Capture’s technology, applications, and potential to revolutionize 
-measurement practices. 
+Dimension Capture is a cost-effective smartphone application designed to measure dimensions of cuboid objects with high accuracy. By leveraging computer vision and ArUco markers with open-source tools like OpenCV, the app offers a reliable alternative to expensive LiDAR systems.
+
+Features: Utilizes smartphone cameras to capture depth data and calculate object dimensions (width and length) with advanced image processing.
+Performance: Achieves an average measurement error below 5% and processes measurements in under 0.9 seconds.
+Applications: Ideal for logistics, manufacturing, and e-commerce sectors requiring precise object sizing.
+
+Dimension Capture simplifies measurement practices, making accurate dimensioning accessible to businesses of all sizes.
 
 ![image](https://github.com/user-attachments/assets/a747a97f-1005-4dc3-9242-3f7c821b04cf)
