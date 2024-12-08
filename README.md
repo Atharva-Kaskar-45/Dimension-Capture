@@ -1,6 +1,6 @@
 # Dimension Capture
 
-Dimension Capture is a cost-effective smartphone application designed to measure dimensions of cuboid objects with high accuracy. By leveraging computer vision and ArUco markers with open-source tools like OpenCV, the app offers a reliable alternative to expensive LiDAR systems.
+Dimension Capture is a cost-effective smartphone application designed to measure dimensions of objects with high accuracy. By leveraging computer vision and ArUco markers with open-source tools like OpenCV, the app offers a reliable alternative to expensive LiDAR systems.
 
 Features: Utilizes smartphone cameras to capture depth data and calculate object dimensions (width and length) with advanced image processing.
 Performance: Achieves an average measurement error below 5% and processes measurements in under 0.9 seconds.
