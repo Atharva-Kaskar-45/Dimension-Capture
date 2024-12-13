@@ -19,7 +19,7 @@ Right now we are in the designing phase of the project using Figma.
 ![image](https://github.com/user-attachments/assets/b1ed68db-0960-4941-9cad-ff63e0b53c08)
 
 # Splash Screen
-<img src="https://github.com/user-attachments/assets/988561f4-2afb-4a80-bd49-60d8bfbb22eb" alt="description" width="300" height="200" />
+<img src="https://github.com/user-attachments/assets/988561f4-2afb-4a80-bd49-60d8bfbb22eb" alt="description" width="400" height="700" />
 
 # Home Screen
 ![image](https://github.com/user-attachments/assets/95485199-69ca-4fce-9e75-a36a16e5f3c9)
