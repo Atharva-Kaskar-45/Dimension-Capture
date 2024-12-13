@@ -16,7 +16,7 @@ This is 100% working model but in order to enhance the user experience, we are c
 Right now we are in the designing phase of the project using Figma.
 
 # App Logo
-<img src="https://github.com/user-attachments/assets/b1ed68db-0960-4941-9cad-ff63e0b53c08" alt="description" width="300" height="300" />
+<img src="https://github.com/user-attachments/assets/b1ed68db-0960-4941-9cad-ff63e0b53c08" alt="description" width="200" height="200" />
 
 # Splash Screen
 <img src="https://github.com/user-attachments/assets/988561f4-2afb-4a80-bd49-60d8bfbb22eb" alt="description" width="300" height="575" />
